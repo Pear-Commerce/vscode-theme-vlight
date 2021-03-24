@@ -2,7 +2,7 @@
     "name": "vscode-theme-vlight-pear-mod",
     "displayName": "VLight Theme (Pear Mod)",
     "description": "Light, contrast, yet easy on eyes color theme, modded for Pear Commerce",
-    "version": "3.0.2",
+    "version": "3.0.5",
     "publisher": "PearCommerce",
     "license": "MIT",
     "galleryBanner": {
@@ -10,7 +10,7 @@
         "theme": "light"
     },
     "engines": {
-        "vscode": "^0.10.5"
+        "vscode": "^1.12.1"
     },
     "categories": [
         "Themes"
@@ -27,6 +27,21 @@
                 "label": "VLight-Pear-A",
                 "uiTheme": "vs",
                 "path": "./themes/VLight-Pear-A.json"
+            },
+            {
+                "label": "VLight-Pear-B",
+                "uiTheme": "vs",
+                "path": "./themes/VLight-Pear-B.json"
+            },
+            {
+                "label": "VLight-Pear-C",
+                "uiTheme": "vs",
+                "path": "./themes/VLight-Pear-C.json"
+            },
+            {
+                "label": "VLight-Pear-D",
+                "uiTheme": "vs",
+                "path": "./themes/VLight-Pear-D.json"
             }
         ]
     },

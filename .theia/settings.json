@@ -3,4 +3,10 @@
     "editor.autoSaveDelay": 5000,
     "editor.formatOnSave": true,
     "editor.formatOnSaveTimeout": 2000,
+    "colorize.languages": [
+        "javascript",
+        "json"
+        // ...
+    ],
+    "workbench.colorTheme": "VLight-Pear-B",
 }
