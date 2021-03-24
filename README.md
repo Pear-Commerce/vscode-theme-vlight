@@ -1,4 +1,6 @@
-# VLight Theme
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Vladeeg/vscode-theme-vlight)
+
+# VLight Theme (Pear Mod)
 
 [![Marketplace](https://vsmarketplacebadge.apphb.com/version/vladeeg.vscode-theme-vlight.svg)](https://marketplace.visualstudio.com/items/vladeeg.vscode-theme-vlight) [![Installs](https://vsmarketplacebadge.apphb.com/installs/vladeeg.vscode-theme-vlight.svg)](https://marketplace.visualstudio.com/items/vladeeg.vscode-theme-vlight) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/vladeeg.vscode-theme-vlight.svg)](https://marketplace.visualstudio.com/items/vladeeg.vscode-theme-vlight)  
 

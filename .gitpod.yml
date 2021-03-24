@@ -1,0 +1,9 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: npm install; vsce package
+
+vscode:
+  extensions:
+    - kamikillerto.vscode-colorize@0.11.0:3E9gsAK8Py7tHCj0MZUDfw==

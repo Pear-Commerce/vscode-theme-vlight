@@ -1,0 +1,6 @@
+{
+    "editor.autoSave": "on",
+    "editor.autoSaveDelay": 5000,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveTimeout": 2000,
+}
