@@ -6,7 +6,7 @@
     "publisher": "PearCommerce",
     "license": "MIT",
     "galleryBanner": {
-        "color": "#E8E8E8",
+        "color": "#46A541",
         "theme": "light"
     },
     "engines": {
@@ -24,24 +24,34 @@
     "contributes": {
         "themes": [
             {
-                "label": "VLight-Pear-A",
+                "label": "VLight-Pear-Green",
                 "uiTheme": "vs",
-                "path": "./themes/VLight-Pear-A.json"
+                "path": "./themes/VLight-Pear-Green.json"
             },
             {
-                "label": "VLight-Pear-B",
+                "label": "VLight-Pear-Blue",
                 "uiTheme": "vs",
-                "path": "./themes/VLight-Pear-B.json"
+                "path": "./themes/VLight-Pear-Blue.json"
             },
             {
-                "label": "VLight-Pear-C",
+                "label": "VLight-Pear-Red",
                 "uiTheme": "vs",
-                "path": "./themes/VLight-Pear-C.json"
+                "path": "./themes/VLight-Pear-Red.json"
             },
             {
-                "label": "VLight-Pear-D",
+                "label": "VLight-Pear-Purple",
                 "uiTheme": "vs",
-                "path": "./themes/VLight-Pear-D.json"
+                "path": "./themes/VLight-Pear-Purple.json"
+            },
+            {
+                "label": "VLight-Pear-Steel",
+                "uiTheme": "vs",
+                "path": "./themes/VLight-Pear-Steel.json"
+            },
+            {
+                "label": "VLight-Pear-Forest",
+                "uiTheme": "vs",
+                "path": "./themes/VLight-Pear-Forest.json"
             }
         ]
     },

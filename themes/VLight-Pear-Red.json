@@ -1,40 +1,40 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "VLight-Pear-A",
+    "name": "VLight-Pear-Red",
     "type": "light",
     "colors": {
-        // Dark Pear Accent Color: #46A541
-        // Light Pear Accent Color: #A7DCA7
-        // Hover Pear Accent Color: #E2F4E2
+        // Dark Pear Accent Color: #FE5448
+        // Light Pear Accent Color: #FFA099
+        // Hover Pear Accent Color: #FFD9D6
         // Hovers
-        "editorSuggestWidget.selectedBackground": "#E2F4E2",
-        "list.focusBackground": "#E2F4E2",
-        "list.hoverBackground": "#E2F4E2",
-        "editorBracketMatch.background": "#E2F4E2",
+        "editorSuggestWidget.selectedBackground": "#FFD9D6",
+        "list.focusBackground": "#FFD9D6",
+        "list.hoverBackground": "#FFD9D6",
+        "editorBracketMatch.background": "#FFD9D6",
         // title
         "titleBar.activeBackground": "#f0f0f0",
-        "titleBar.activeForeground": "#46A541",
+        "titleBar.activeForeground": "#FE5448",
         "titleBar.border": "#f0f0f0",
-        "menu.selectionBackground": "#E2F4E2",
-        "menubar.selectionBackground": "#E2F4E2",
-        "menubar.selectionForeground": "#46A541",
+        "menu.selectionBackground": "#FFD9D6",
+        "menubar.selectionBackground": "#FFD9D6",
+        "menubar.selectionForeground": "#FE5448",
         // Activity Bar
         "activityBar.background": "#f0f0f0",
-        "activityBar.foreground": "#46A541",
-        "activityBarBadge.background": "#46A541",
-        "activityBarBadge.foreground": "#A7DCA7",
+        "activityBar.foreground": "#FE5448",
+        "activityBarBadge.background": "#FE5448",
+        "activityBarBadge.foreground": "#FFA099",
         "activityBar.border": "#f0f0f0",
         // Bright colors
-        "statusBar.background": "#46A541",
+        "statusBar.background": "#FE5448",
         "statusBar.foreground": "#FFFFFF",
-        "statusBar.border": "#46A541",
+        "statusBar.border": "#FE5448",
         // Buttons
-        "button.background": "#46A541",
+        "button.background": "#FE5448",
         "button.foreground": "#FFFFFF",
         "editorSuggestWidget.border": "#d9d9d9",
-        "editorHoverWidget.background": "#A7DCA7",
+        "editorHoverWidget.background": "#FFA099",
         "editorHoverWidget.border": "#d9d9d9",
-        "debugExceptionWidget.background": "#A7DCA7",
+        "debugExceptionWidget.background": "#FFA099",
         // Base
         "foreground": "#403f53",
         "focusBorder": "#93A1A1",
@@ -60,7 +60,7 @@
         "input.foreground": "#403f53",
         "input.border": "#d9d9d9",
         "input.placeholderForeground": "#93A1A1",
-        "inputOption.activeBorder": "#46A541",
+        "inputOption.activeBorder": "#FE5448",
         "inputValidation.infoBorder": "#D0D0D0",
         "inputValidation.infoBackground": "#f0f0f0",
         "inputValidation.warningBackground": "#F2A60D",
@@ -68,12 +68,12 @@
         "inputValidation.errorBackground": "#f76e6e",
         "inputValidation.errorBorder": "#de3d3b",
         // Badge
-        "badge.background": "#46A541",
+        "badge.background": "#FE5448",
         "badge.foreground": "#f0f0f0",
         // Progress Bar
-        "progressBar.background": "#46A541",
+        "progressBar.background": "#FE5448",
         // List and Trees
-        "list.activeSelectionBackground": "#E2F4E2",
+        "list.activeSelectionBackground": "#FFD9D6",
         "list.activeSelectionForeground": "#403f53",
         "list.inactiveSelectionBackground": "#E0E7EA",
         "list.inactiveSelectionForeground": "#403f53",
@@ -95,13 +95,13 @@
         "tab.activeForeground": "#403f53",
         "tab.inactiveForeground": "#403f53",
         "tab.inactiveBackground": "#f0f0f0",
-        "tab.activeBorder": "#46A541",
+        "tab.activeBorder": "#FE5448",
         "editorGroup.border": "#f0f0f0",
         "editorGroup.emptyBackground": "#F6F6F6",
         "editorGroupHeader.tabsBackground": "#f0f0f0",
         "editorGroupHeader.tabsBorder": "#f0f0f0",
         "editorGroupHeader.noTabsBackground": "#f0f0f0",
-        "tab.activeModifiedBorder": "#46A541",
+        "tab.activeModifiedBorder": "#FE5448",
         "tab.inactiveModifiedBorder": "#93A1A1",
         "tab.unfocusedActiveModifiedBorder": "#93A1A1",
         "tab.unfocusedInactiveModifiedBorder": "#93A1A1",
@@ -124,7 +124,7 @@
         "editorWhitespace.foreground": "#d9d9d9",
         "editorIndentGuide.background": "#d9d9d9",
         "editorCodeLens.foreground": "#403f53",
-        "editorBracketMatch.border": "#46A541",
+        "editorBracketMatch.border": "#FE5448",
         "editorError.foreground": "#E64D49",
         "editorError.border": "#f9f9fa",
         "editorWarning.foreground": "#F2A60D",
@@ -151,7 +151,7 @@
         "pickerGroup.border": "#d9d9d9",
         "pickerGroup.foreground": "#403f53",
         // Extension
-        "extensionButton.prominentBackground": "#46A541",
+        "extensionButton.prominentBackground": "#FE5448",
         "extensionButton.prominentForeground": "#f0f0f0",
         // Status Bar
         "statusBar.debuggingBackground": "#f0f0f0",
