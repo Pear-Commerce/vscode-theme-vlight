@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "VLight-Pear-A",
+    "name": "VLight-Pear-B",
     "type": "light",
     "colors": {
         // Dark Pear Accent Color: #1E91D6
@@ -15,8 +15,8 @@
         "titleBar.activeBackground": "#f0f0f0",
         "titleBar.activeForeground": "#1E91D6",
         "titleBar.border": "#f0f0f0",
-        "menu.selectionBackground": "#f0f0f0",
-        "menubar.selectionBackground": "#f0f9f0",
+        "menu.selectionBackground": "#DBEEFA",
+        "menubar.selectionBackground": "#DBEEFA",
         "menubar.selectionForeground": "#1E91D6",
         // Activity Bar
         "activityBar.background": "#f0f0f0",

@@ -15,8 +15,8 @@
         "titleBar.activeBackground": "#f0f0f0",
         "titleBar.activeForeground": "#46A541",
         "titleBar.border": "#f0f0f0",
-        "menu.selectionBackground": "#f0f0f0",
-        "menubar.selectionBackground": "#f0f9f0",
+        "menu.selectionBackground": "#E2F4E2",
+        "menubar.selectionBackground": "#E2F4E2",
         "menubar.selectionForeground": "#46A541",
         // Activity Bar
         "activityBar.background": "#f0f0f0",

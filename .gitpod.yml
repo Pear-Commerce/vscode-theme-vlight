@@ -2,8 +2,34 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
-  - init: npm install; vsce package
+  - init: npm install
+  - command: vsce package
+  - name: Terminal
+
+ports:
+  - port: 3000
+    onOpen: ignore
+  - port: 8000
+    onOpen: ignore
+
+github:
+  prebuilds:
+    # enable for the master/default branch (defaults to true)
+    master: true
+    # enable for all branches in this repo (defaults to false)
+    branches: false
+    # enable for pull requests coming from this repo (defaults to true)
+    pullRequests: false
+    # enable for pull requests coming from forks (defaults to false)
+    pullRequestsFromForks: false
+    # add a "Review in Gitpod" button as a comment to pull requests (defaults to true)
+    addComment: true
+    # add a "Review in Gitpod" button to pull requests (defaults to false)
+    addBadge: true
+    # add a label once the prebuild is ready to pull requests (defaults to false)
+    addLabel: prebuilt-in-gitpod
 
 vscode:
   extensions:
     - kamikillerto.vscode-colorize@0.11.0:3E9gsAK8Py7tHCj0MZUDfw==
+    - pearcommerce.vscode-theme-vlight-pear-mod@3.0.6:BuV12pHd8XFX3i6g4gU6PQ==

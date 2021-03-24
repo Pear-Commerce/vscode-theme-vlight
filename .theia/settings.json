@@ -8,5 +8,18 @@
         "json"
         // ...
     ],
-    "workbench.colorTheme": "VLight-Pear-B",
+    "workbench.colorTheme": "VLight-Pear-C",
+    "colorize.exclude": [
+        "**/.git",
+        "**/.svn",
+        "**/.hg",
+        "**/CVS",
+        "**/.DS_Store",
+        "**/.git",
+        "**/node_modules",
+        "**/bower_components",
+        "**/tmp",
+        "**/dist",
+        "**/tests"
+    ],
 }

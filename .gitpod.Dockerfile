@@ -6,4 +6,12 @@ FROM gitpod/workspace-full
 #
 # More information: https://www.gitpod.io/docs/config-docker/
 
-RUN npm install -g yo generator-code vsce
+RUN bash -cli "npm install -g yo generator-code vsce"
+
+# Install some optional Pear utils
+RUN echo 'cat $GITPOD_REPO_ROOT/pear-scripts/ascii-art.ans' >> /home/gitpod/.bashrc && \
+    echo 'alias gs="git status"' >> /home/gitpod/.bashrc && \
+    echo 'alias ga="git commit -a --amend  -C  HEAD"' >> /home/gitpod/.bashrc && \
+    echo 'alias src="source ~/.bashrc"' >> /home/gitpod/.bashrc && \
+    echo 'export PATH="$PATH:./devops:./pear-scripts"' >> /home/gitpod/.bashrc && \
+    echo 'alias gip="git pull --rebase && git push"' >> /home/gitpod/.bashrc
