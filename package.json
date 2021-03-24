@@ -52,6 +52,11 @@
                 "label": "VLight-Pear-Forest",
                 "uiTheme": "vs",
                 "path": "./themes/VLight-Pear-Forest.json"
+            },
+            {
+                "label": "VLight-Pear-Gold",
+                "uiTheme": "vs",
+                "path": "./themes/VLight-Pear-Gold.json"
             }
         ]
     },
