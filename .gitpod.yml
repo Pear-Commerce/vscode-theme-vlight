@@ -16,20 +16,20 @@ github:
   prebuilds:
     # enable for the master/default branch (defaults to true)
     master: true
-    # enable for all branches in this repo (defaults to false)
+# enable for all branches in this repo (defaults to false)
     branches: false
-    # enable for pull requests coming from this repo (defaults to true)
+# enable for pull requests coming from this repo (defaults to true)
     pullRequests: false
-    # enable for pull requests coming from forks (defaults to false)
+# enable for pull requests coming from forks (defaults to false)
     pullRequestsFromForks: false
-    # add a "Review in Gitpod" button as a comment to pull requests (defaults to true)
+# add a "Review in Gitpod" button as a comment to pull requests (defaults to true)
     addComment: true
-    # add a "Review in Gitpod" button to pull requests (defaults to false)
+# add a "Review in Gitpod" button to pull requests (defaults to false)
     addBadge: true
-    # add a label once the prebuild is ready to pull requests (defaults to false)
+# add a label once the prebuild is ready to pull requests (defaults to false)
     addLabel: prebuilt-in-gitpod
 
 vscode:
   extensions:
     - kamikillerto.vscode-colorize@0.11.0:3E9gsAK8Py7tHCj0MZUDfw==
-    - pearcommerce.vscode-theme-vlight-pear-mod@3.0.6:BuV12pHd8XFX3i6g4gU6PQ==
+    - pearcommerce.vscode-theme-vlight-pear-mod@3.0.11:ChIHZF7d6TbSy0cEIc3jNw==

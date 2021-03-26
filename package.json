@@ -72,6 +72,6 @@
     "scripts": {
         "package": "npm version --allow-same-version patch && npm run build",
         "build": "vsce package -o build/",
-        "clean": "rm -r build/*"
+        "clean": "rm -rf build/* || (rm -rf build && mkdir -p build/)"
     }
 }

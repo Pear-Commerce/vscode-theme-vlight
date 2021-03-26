@@ -8,7 +8,7 @@
         "json"
         // ...
     ],
-    "workbench.colorTheme": "VLight-Pear-C",
+    "workbench.colorTheme": "VLight-Pear-Steel",
     "colorize.exclude": [
         "**/.git",
         "**/.svn",
@@ -21,5 +21,5 @@
         "**/tmp",
         "**/dist",
         "**/tests"
-    ],
+    ]
 }
